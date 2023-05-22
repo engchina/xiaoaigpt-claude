@@ -1,0 +1,8 @@
+set MI_USER=
+set MI_PASS=
+set MI_DID=
+set SOUND_TYPE=
+set SLACK_CLAUDE_BOT_ID=
+set SLACK_CLAUDE_USER_TOKEN=
+
+python xiaoaigpt.py
